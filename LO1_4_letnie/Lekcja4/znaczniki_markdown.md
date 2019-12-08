@@ -8,9 +8,9 @@ normalny
 
 ~~przekreślony (srikeout)~~
 
-# nagłówek (header 1)#
+# nagłówek (header 1) #
 
-## podwójny nagłówek (header 2)##
+## podwójny nagłówek (header 2) ##
 
 Lista
 
