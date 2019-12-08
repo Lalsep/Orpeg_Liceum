@@ -20,4 +20,4 @@ Lista
 
 Teraz zdjęcie
 
-![Podpis obrazka](images/orpeg.jpg)
+[![Podpis obrazka](images/orpeg.jpg)]
