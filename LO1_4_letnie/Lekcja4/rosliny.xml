@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rodzaje>
+    <rodzaj nazwa="mak">
+        <gatunki>
+            <gatunek nazwa="mak alpejski" />
+            <gatunek nazwa="mak lekarski" />
+            <gatunek nazwa="mak polny" />
+        </gatunki>
+        <liscie>
+            pierzastodzielne
+        </liscie>
+        <kwiaty>
+            duże, pojedyncze
+        </kwiaty>
+        <owoce>
+            wielonasienne torebki
+        </owoce>
+    </rodzaj>
+    <rodzaj nazwa="niezapominajka">
+        <gatunki>
+            <gatunek nazwa="niezapominajka polna" />
+            <gatunek nazwa="niezapominajka alpejska" />
+            <gatunek nazwa="niezapominajka blotna">
+                <lodyga>
+                    przeważnie kanciasta, owlosiona, plożąca się i zakorzeniająca lub wzniesiona
+                </lodyga>
+                <liscie>
+                    owlosione, do 10 cm dlugie i do 2 cm szerokie. Lancetowate lub podlugowatojajowate
+                </liscie>
+                <kwiaty>
+                    jasnoniebieskie, rzadko biale z plasko rozpostartymi latkami korony. Kielich owlosiony. Kwitnie od maja do października.
+                </kwiaty>
+            </gatunek>
+        </gatunki>
+        <liscie>
+            pojedyncze, calobrzegie, liscie lodygowe siedzące, podlugowatolancetowate
+        </liscie>
+        <kwiaty>
+            rurkowotalerzykowate, z jasnożóltymi osklepkami
+        </kwiaty>
+        <owoce>
+            rozlupki trójgraniasto jajowate
+        </owoce>
+    </rodzaj>
+</rodzaje>

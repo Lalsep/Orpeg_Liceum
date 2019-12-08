@@ -1,0 +1,27 @@
+<klasa>
+
+ <nauczyciel rocznik="1976">
+
+  <imie>Adam</imie>
+
+  <nazwisko>Zielonka</nazwisko>
+
+ </nauczyciel>
+
+ <uczen rocznik="1994">
+
+  <imie>Anna</imie>
+
+  <nazwisko>Zawadzka</nazwisko>
+
+ </uczen>
+
+ <uczen rocznik="1993">
+
+  <imie>Filip</imie>
+
+  <nazwisko>Dreger</nazwisko>
+
+ </uczen>
+
+</klasa>
