@@ -17,3 +17,6 @@ Lista
 * element listy
 * element listy
 * element listy
+
+Teraz zdjęcie
+![Podpis obrazka](images/orpeg.jpg)
