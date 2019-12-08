@@ -2,7 +2,7 @@
 
 normalny
 
-** pogrubiony (bold)**
+**pogrubiony (bold)**
 
 *pochyły (italics)*
 
