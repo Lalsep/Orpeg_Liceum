@@ -1,5 +1,7 @@
 <zabawka  kolor="czerwony">
-<opis>
+
+<opis><!-- to jest komentarz -->
+
 Przyrząd do puszczania baniek mydlanych służy do puszczania kolorych tradycyjnych baniek.
 
 </opis>

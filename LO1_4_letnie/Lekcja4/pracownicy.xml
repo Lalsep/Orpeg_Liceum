@@ -1,0 +1,24 @@
+<pracownicy>
+<pracownik>
+	<imie>Adam</imie>
+	<nazwisko>Kowalski</nazwisko>
+	<płeć>M</płeć>
+</pracownik>
+<pracownik>
+	<imie>Maria</imie>
+	<nazwisko>Nowak</nazwisko>
+	<płeć>K</płeć>
+</pracownik>
+<pracownik>
+	<imie>Małgorzata</imie>
+	<nazwisko>Kamińska</nazwisko>
+	<płeć>K</płeć>
+</pracownik>
+<pracownik>
+	<imie>Andrzej</imie>
+	<nazwisko>Boguszewski</nazwisko>
+	<płeć>M</płeć>
+</pracownik>
+<!-- to są inni pracownicy -->
+
+</pracownicy>

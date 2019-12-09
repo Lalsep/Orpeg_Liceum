@@ -1,0 +1,26 @@
+body{
+
+font-family: sans-serif;
+color: #050505;
+padding: 10px;
+
+}
+
+.DOW{
+
+font-size: 1.2em;
+color: #3d0b0b;
+float: left;
+width: 40%;
+
+}
+
+
+.MNTH{
+
+font-size: 0.9em;
+color: #125872;
+float: left;
+width: 40%;
+
+}
