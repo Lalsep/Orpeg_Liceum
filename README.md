@@ -5,7 +5,7 @@
 code for highschool classes
 
 Jest to zbiór plików z lekcji oraz zadań z prac domowych dla chętnych.
-Zbiór ten jest przezaczony jest dla uczniów kursu informatyki uczniów 
+Zbiór ten jest przezaczony dla uczniów kursu informatyki  
 Liceum Ogólnokształcącego 3 - letniego oraz 4 - letniego.
 
 
