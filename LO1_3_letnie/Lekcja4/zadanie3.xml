@@ -1,0 +1,21 @@
+<a b=monitor>
+    <d>
+        <h>
+            abc abc tekst
+        </h>
+        <h>
+            xyz abc tekst
+        </h>
+        <h>
+            abc xyz tekts
+        </h>
+        <h monitor='a'>
+            abc abc tekst
+        </h>
+    </d>
+    <i>klawiatura</i>
+    <j>materac <mebel>szafa</j>
+    </mebel>
+    <e>
+    </e f="g">
+</a>

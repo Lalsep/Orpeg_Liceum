@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<?xml-stylesheet href="classic.xsl" type="text/xml"?>
+<zwierzęta>
+    <zwierzę>
+        <nazwa>
+            kot
+        </nazwa>
+        <wygląd lang="PL">
+            Kot domowy ma okrągłą głowę, duże oczy przystosowane do widzenia w niskim natężeniu światła, spiczaste uszy. Ma znakomity słuch i wzrok, węch dość słaby. Posiada wąsy czuciowe - wibryssy. Łatwo ulega zdziczeniu, często też krzyżuje się ze żbikiem. Pazury kota zaopatrzone są w specjalny mechanizm umożliwiający ich chowanie.
+        </wygląd>
+    </zwierzę>
+    <!-- todo: dodać opis psa-->
+</zwierzęta>
